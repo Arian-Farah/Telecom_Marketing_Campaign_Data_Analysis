@@ -26,10 +26,8 @@ This project performs an in-depth exploratory data analysis (EDA) on a telecom c
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ftme-lyc/telecom-eda.git
-   cd telecom-eda
+1. Clone the repository
+  
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -105,10 +103,8 @@ Future work could explore more features, segment-specific modeling, and real-tim
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ftme-lyc/telecom-eda.git
-   cd telecom-eda
+1. Clone the repository
+   
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
